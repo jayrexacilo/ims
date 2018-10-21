@@ -8,6 +8,6 @@
 
 @section('content')
 
-<p>This is my body content.</p>
+<p>This is my body content. This is test for fugitive commit</p>
 
 @endsection
